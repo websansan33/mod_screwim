@@ -34,7 +34,7 @@
 #ifndef PHP_SCREWIM_H
 #define PHP_SCREWIM_H
 
-#define SCREWIM     "\tSCREWIM DATA\t"
+#define SCREWIM     "\tSCREWIM DATE\t"
 #define SCREWIM_LEN 14
 
 /* If build PHP module {{{
